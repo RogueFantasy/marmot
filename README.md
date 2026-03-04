@@ -1,5 +1,7 @@
 # 🦫 Marmot Protocol
 
+![Marmot Protocol](https://blossom.primal.net/d9f2c5746e6b20e12517a5d775cb5f35c82b531dbe028a3bc8dca6d3bd90b344.png)
+
 **Secure, decentralized group messaging that protects both content and metadata**
 
 Marmot combines the [MLS Protocol](https://www.rfc-editor.org/rfc/rfc9420.html) with [Nostr's](https://github.com/nostr-protocol/nostr) decentralized network to deliver truly private group messaging without relying on centralized servers or legacy identity systems.
